@@ -1,0 +1,63 @@
+C:\Users\Sombra\Documents\5th Semester\Database Workshop\JambaJuiceMannager\JambaJuiceMannager\bin\Debug\JambaJuiceMannager.exe.config
+C:\Users\Sombra\Documents\5th Semester\Database Workshop\JambaJuiceMannager\JambaJuiceMannager\bin\Debug\JambaJuiceMannager.exe
+C:\Users\Sombra\Documents\5th Semester\Database Workshop\JambaJuiceMannager\JambaJuiceMannager\bin\Debug\JambaJuiceMannager.pdb
+C:\Users\Sombra\Documents\5th Semester\Database Workshop\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.csprojAssemblyReference.cache
+C:\Users\Sombra\Documents\5th Semester\Database Workshop\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.frmPrincipal.resources
+C:\Users\Sombra\Documents\5th Semester\Database Workshop\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.Properties.Resources.resources
+C:\Users\Sombra\Documents\5th Semester\Database Workshop\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.csproj.GenerateResource.cache
+C:\Users\Sombra\Documents\5th Semester\Database Workshop\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.csproj.CoreCompileInputs.cache
+C:\Users\Sombra\Documents\5th Semester\Database Workshop\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.exe
+C:\Users\Sombra\Documents\5th Semester\Database Workshop\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.pdb
+C:\Users\Sombra\Documents\5th Semester\Database Workshop\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.frmCliente.resources
+C:\Users\Sombra\Documents\5th Semester\Database Workshop\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.frmProductos.resources
+C:\Users\alxnd\Documents\JambaJuiceMannager\JambaJuiceMannager\bin\Debug\JambaJuiceMannager.exe.config
+C:\Users\alxnd\Documents\JambaJuiceMannager\JambaJuiceMannager\bin\Debug\JambaJuiceMannager.exe
+C:\Users\alxnd\Documents\JambaJuiceMannager\JambaJuiceMannager\bin\Debug\JambaJuiceMannager.pdb
+C:\Users\alxnd\Documents\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.csprojAssemblyReference.cache
+C:\Users\alxnd\Documents\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.frmPrincipal.resources
+C:\Users\alxnd\Documents\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.Properties.Resources.resources
+C:\Users\alxnd\Documents\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.csproj.GenerateResource.cache
+C:\Users\alxnd\Documents\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.csproj.CoreCompileInputs.cache
+C:\Users\alxnd\Documents\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.exe
+C:\Users\alxnd\Documents\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.pdb
+C:\Users\alxnd\Documents\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.FormCliente.resources
+C:\Users\alxnd\Documents\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.FormProductos.resources
+C:\Users\alxnd\Documents\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.FormShowAllC.resources
+C:\Users\alxnd\Documents\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.FormShowAllP.resources
+C:\Users\alxnd\Documents\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.FormShowAllProm.resources
+C:\Users\alxnd\Documents\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.FormShowAllT.resources
+E:\JambaJuiceMannager\JambaJuiceMannager\bin\Debug\JambaJuiceMannager.exe.config
+E:\JambaJuiceMannager\JambaJuiceMannager\bin\Debug\JambaJuiceMannager.exe
+E:\JambaJuiceMannager\JambaJuiceMannager\bin\Debug\JambaJuiceMannager.pdb
+E:\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.csprojAssemblyReference.cache
+E:\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.frmPrincipal.resources
+E:\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.FormCliente.resources
+E:\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.FormProductos.resources
+E:\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.FormShowAllC.resources
+E:\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.FormShowAllP.resources
+E:\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.FormShowAllProm.resources
+E:\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.FormShowAllT.resources
+E:\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.Properties.Resources.resources
+E:\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.csproj.GenerateResource.cache
+E:\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.csproj.CoreCompileInputs.cache
+E:\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.exe
+E:\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.pdb
+C:\Users\Sven\Documents\JambaJuiceMannager\JambaJuiceMannager\bin\Debug\JambaJuiceMannager.exe.config
+C:\Users\Sven\Documents\JambaJuiceMannager\JambaJuiceMannager\bin\Debug\JambaJuiceMannager.exe
+C:\Users\Sven\Documents\JambaJuiceMannager\JambaJuiceMannager\bin\Debug\JambaJuiceMannager.pdb
+C:\Users\Sven\Documents\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.csprojAssemblyReference.cache
+C:\Users\Sven\Documents\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.frmPrincipal.resources
+C:\Users\Sven\Documents\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.FormCliente.resources
+C:\Users\Sven\Documents\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.FormProductos.resources
+C:\Users\Sven\Documents\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.FormShowAllC.resources
+C:\Users\Sven\Documents\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.FormShowAllP.resources
+C:\Users\Sven\Documents\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.FormShowAllProm.resources
+C:\Users\Sven\Documents\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.FormShowAllT.resources
+C:\Users\Sven\Documents\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.Properties.Resources.resources
+C:\Users\Sven\Documents\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.csproj.GenerateResource.cache
+C:\Users\Sven\Documents\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.csproj.CoreCompileInputs.cache
+C:\Users\Sven\Documents\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.exe
+C:\Users\Sven\Documents\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.pdb
+C:\Users\Sven\Documents\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.FormPromociones.resources
+C:\Users\Sven\Documents\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.FrmVentas.resources
+C:\Users\Sven\Documents\JambaJuiceMannager\JambaJuiceMannager\obj\Debug\JambaJuiceMannager.FrmTamanos.resources
